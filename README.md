@@ -1,6 +1,6 @@
-# React To-Do List
+# React To Do List with Firebase
 
-This is a simple To-Do list nade with React and Tailwind CSS. 
+This is a simple To-Do list made with React and Tailwind CSS. 
 For backend using Firebase.
 A little practice for my developing proccess to make a perfect Chat app.
 
