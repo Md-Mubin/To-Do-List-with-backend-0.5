@@ -1,4 +1,4 @@
-# React To Do List with Firebase
+# React To Do List v0.5 with Firebase
 
 This is a simple To-Do list made with React and Tailwind CSS. 
 For backend using Firebase.
